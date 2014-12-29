@@ -1,3 +1,3 @@
 Sunny is learning github!
-now it's the second part
-I have been connected to remote repository!
+now it's the first part from dev
+I have been connected11 to remote repository!
